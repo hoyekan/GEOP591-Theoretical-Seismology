@@ -3,4 +3,4 @@ This repository contains (or will contain) detailed mathematical derivation to s
 
 
 
-GEOP 591 is a graduate special course offered at King Fahd University of Petroleum and Minerals (KFUPM). The custodian of this repository took the course in Term 242 (January 2025 - May 2025). The course instructor during this was Dr. Wei Zhou. 
+GEOP 591 is a graduate special course offered at King Fahd University of Petroleum and Minerals (KFUPM). The custodian of this repository took the course in Term 242 (January 2025 - May 2025). The course instructor during this period was [Dr. Wei Zhou] (goal.com). 
