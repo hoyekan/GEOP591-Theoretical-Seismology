@@ -1,5 +1,5 @@
 # GEOP591 - Theoretical-Seismology
-This repository contains detailed derivation to some classical solutions in theoretical seismology. 
+This repository contains (or will contain) detailed mathematical derivation to some classical solutions in theoretical seismology. 
 
 
 
